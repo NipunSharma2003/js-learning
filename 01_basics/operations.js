@@ -18,4 +18,10 @@ console.log("Hello");
 
 } 
 console.log(typeof heros);
+let obj2=obj
+obj2.name="Neeraj"
+console.log(obj.name);
+console.log(obj2.name);
+
+
 
